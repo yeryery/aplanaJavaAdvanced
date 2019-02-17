@@ -1,4 +1,4 @@
-package Test4_2;
+package Task4_2;
 
 public class Present {
     private String name;
